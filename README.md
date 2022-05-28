@@ -17,6 +17,7 @@ Experience
 * 2021 2nd Semester Basic Capston Deisgn Class Assistant [21.09 ~ 21.12]
 * 2021 Data Convergence Talent Traning Project captain (on 'K-data' and 'Ministry on Science and ICT') [21.05 ~ 21.09]
 * HUFS SW Voluteers member [20.07 ~ 21.12]
+* 2022 Stop Covid-19 SW Challenge Idea Hackathon - UAUA Game Using AR
 
 
 Awards
